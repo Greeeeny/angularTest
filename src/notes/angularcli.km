@@ -1,0 +1,47 @@
+{
+    "root": {
+        "data": {
+            "id": "cusde8zkuqo0",
+            "created": 1692026669188,
+            "text": "angular/cli"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cusdehtpbog0",
+                    "created": 1692026688424,
+                    "text": "ng new component 组件名"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cusdfzh6xvk0",
+                    "created": 1692026805214,
+                    "text": "Node.js官方安装的工具"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cusdgabhqw00",
+                            "created": 1692026828813,
+                            "text": "npm：第三方模块的维护工具"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cusdgi1z2l40",
+                            "created": 1692026845652,
+                            "text": "npx：第三方可执行文件的执行工具（位于node_modules/.bin)"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
