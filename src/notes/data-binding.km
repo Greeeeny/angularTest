@@ -1,0 +1,106 @@
+{
+    "root": {
+        "data": {
+            "id": "cut7g132ulc0",
+            "created": 1692111442011,
+            "text": "Data Binding"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cut7g47ne7c0",
+                    "created": 1692111448818,
+                    "text": "HTML binding"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cut7gd8cmi00",
+                            "created": 1692111468451,
+                            "text": "{{NG 表达式}}"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cut7jgwbkd40",
+                                    "created": 1692111711523,
+                                    "text": "算术运算✅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jl2s9ug0",
+                                    "created": 1692111720621,
+                                    "text": "比较运算✅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jngq7zc0",
+                                    "created": 1692111725818,
+                                    "text": "逻辑运算✅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jp5xay00",
+                                    "created": 1692111729518,
+                                    "text": "三目运算✅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jvdjbf40",
+                                    "created": 1692111743039,
+                                    "text": "调用函数✅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jxhoze80",
+                                    "created": 1692111747644,
+                                    "text": "创建对象❌"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cut7s128uig0",
+                                            "created": 1692112382331,
+                                            "text": "不能出现new"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cut7jzrdjts0",
+                                    "created": 1692111752583,
+                                    "text": "JSON序列化❌"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cut7s4jtg2w0",
+                                            "created": 1692112389923,
+                                            "text": "JSON是undefined"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

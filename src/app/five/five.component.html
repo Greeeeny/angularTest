@@ -1,1 +1,19 @@
 <p>five works!</p>
+<hr>
+<div>
+    user name: {{uname}}
+    user age: {{uage}}
+</div>
+<div>{{1+2}}</div>
+<div>{{1>2}}</div>
+<div> {{1>2 ? 'yes' : 'no'}}</div>
+<div>在法定年龄吗：{{ uage >= 18 && uage < 60}}</div>
+<div>user name length:{{uname.length}}</div>
+<div>user name to upper case: {{uname.toUpperCase()}}</div>
+<div>the second character in username: {{uname[2]}}</div>
+
+<p title="{{uname}}">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, ut libero? Obcaecati repudiandae modi accusamus numquam, suscipit quae repellat doloribus. Dolore, suscipit! Culpa odio sequi reprehenderit quasi esse obcaecati cum!
+</p>
+
+<button (click)="printUname()"> output user name</button>
