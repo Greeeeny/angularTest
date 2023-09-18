@@ -1,0 +1,22 @@
+{
+    "root": {
+        "data": {
+            "id": "cvm3tnri1ag0",
+            "created": 1695046464415,
+            "text": "Module"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cvm3tr3g2o80",
+                    "created": 1695046471667,
+                    "text": "Def: 用于对项目中的大量组件进行分组，如用户模块，商品模块，引导模块(AppModule)"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

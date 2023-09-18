@@ -97,6 +97,61 @@
                         ]
                     }
                 ]
+            },
+            {
+                "data": {
+                    "id": "cvm3afra8l40",
+                    "created": 1695044958068,
+                    "text": "属性绑定"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvm3cq58xk00",
+                            "created": 1695045137409,
+                            "text": "形式1：直接在属性上用{{}}",
+                            "layout_left_offset": {
+                                "x": -4.999999925494194,
+                                "y": 0
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cvm3dbrnj4o0",
+                                    "created": 1695045184476,
+                                    "text": "<p title=\"{{tittle}}\">"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cvm3dzco5rs0",
+                            "created": 1695045235813,
+                            "text": "形式2:使用[]做属性绑定 "
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cvm3ehvzcwo0",
+                                    "created": 1695045276163,
+                                    "text": "<p [title]=\"uname\">"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cvm3fhhxkzc0",
+                    "created": 1695045353677,
+                    "text": "事件绑定"
+                },
+                "children": []
             }
         ]
     },
